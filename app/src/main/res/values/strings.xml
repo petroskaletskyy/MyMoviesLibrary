@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Movies Library</string>
+    <string name="poster_of_movie">Постер до фільму</string>
+    <string name="popularity_label_switch">Найпопулярніші</string>
+    <string name="top_rated_label_switch">Найбільш рейтингові</string>
+    <string name="textview_label_title">Назва:</string>
+    <string name="imageview_big_poster_cintent_description">Великий постер фільму</string>
+    <string name="textview_label_original_title">Оригінальна назва:</string>
+    <string name="textview_label_rating">Рейтинг</string>
+    <string name="textview_label_release_date">Дата релізу:</string>
+    <string name="textview_label_description">Опис:</string>
+    <string name="imageview_add_favorite">Додати в улюблені</string>
+    <string name="toast_add_to_favourite">Додано до улюблених</string>
+    <string name="toast_delete_from_favourite">Видалено з улюблених</string>
+    <string name="menu_main_title">Головна</string>
+    <string name="menu_favourite_title">Улюблені</string>
+    <string name="imageview_play_description">Запуск відео</string>
+    <string name="textview_default_text">TextView</string>
+    <string name="menu_watched_title">Переглянуті</string>
+    <string name="imageview_add_watched">Додати до переглянутих</string>
+    <string name="toast_add_to_watched">Додано до переглянутих</string>
+    <string name="toast_delete_from_watched">Видалено з переглянутих</string>
+</resources>
